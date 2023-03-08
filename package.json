@@ -1,0 +1,25 @@
+{
+  "name": "timeline-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/cors": "^2.2.3",
+    "@notionhq/client": "^1.0.3",
+    "dotenv": "^16.0.0",
+    "graphql": "^16.5.0",
+    "graphql-request": "^4.2.0",
+    "jest": "^27.5.1",
+    "jest-json-schema": "^6.1.0",
+    "koa": "^2.13.4",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^8.0.8",
+    "nodemon": "^2.0.21",
+    "sqlite3": "^5.0.11"
+  }
+}
